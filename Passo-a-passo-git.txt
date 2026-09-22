@@ -27,3 +27,14 @@ Passo opcional:
 Oitavo passo:
 - Através do comando "git add ." vamos adicionar todas as alterações
 
+Nono passo:
+- Commitar as alterações feitas no oitavo passo
+
+Décimo passo:
+- Rodar o comando "git commit -m "texto referente as mudancas adicionadas"" ex:
+
+git commit -m "Subindo pastas das aulas 1 a 6"
+
+Décimo primeiro passo:
+- Subir os commits feitos, através do comando "git push origin main" ou "git push origin master"
+ex: git push origin main
