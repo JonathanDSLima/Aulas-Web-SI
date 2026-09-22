@@ -58,3 +58,9 @@ Passos de trabalho em equipe
 
 Primeiro passo:
 - Criar sua própria branch de trabalho, através do comando "git checkout -b login"
+
+Segundo passo:
+- Fazer todos os comandos de git add, git commit, git push até subir a branch nova no github
+
+Terceiro passo:
+- Transitar entre as branchs com o comando "git checkout nomeBranchExistente"
