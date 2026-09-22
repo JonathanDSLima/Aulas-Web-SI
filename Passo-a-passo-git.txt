@@ -45,3 +45,5 @@ Comandos mais importantes:
 git clone nomeprojeto
 git status
 git add .
+git commit -m "Texto do commit"
+git push origin main (ou nome da branch que vc está)
