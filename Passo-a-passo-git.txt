@@ -47,3 +47,10 @@ git status
 git add .
 git commit -m "Texto do commit"
 git push origin main (ou nome da branch que vc está)
+
+
+Segundo passo:
+- Fazer todos os comandos de git add, git commit, git push até subir a branch nova no github
+
+Terceiro passo:
+- Transitar entre as branchs com o comando "git checkout nomeBranchExistente"
