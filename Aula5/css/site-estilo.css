@@ -1,0 +1,31 @@
+.primeiro-texto {
+    font-size: 20px;
+    font-family: cursive;
+    color: #ff0000;
+    text-align: center;
+    background-image: url("../img/gato-computador.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.segundo-texto {
+    font-size: 30px;
+    font-family: monospace;
+    color: rgb(4, 0, 255);
+    text-align: justify;
+}
+
+#terceiro-texto{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(129, 141, 61);
+    text-align: left;
+    letter-spacing: 1rem;
+    word-spacing: 1rem;
+}
+
+.imagem{
+    width: 600px;
+    height: 600px;
+}

@@ -1,0 +1,34 @@
+.titulo{
+    text-align: center;
+}
+
+.imagens-horizontal{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imagem{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+    font-size: 28px;
+}
+
+img{
+    width: 250px;
+    border: 10px ridge red;
+    border-radius: 2rem;
+}
+
+.imagens-vertical{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.imagem-vertical{
+    margin-bottom: 22px;
+}

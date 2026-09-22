@@ -1,0 +1,29 @@
+Primeiro passo:
+- Instalar o git através do link (https://git-scm.com/install/windows)
+
+Segundo passo:
+- Abrir qualquer terminal em qualquer IDE
+
+Terceiro passo:
+- Rodar comando "git version" para validar de o git foi instalado corretamente
+
+Quarto passo:
+- Criar uma conta no github (https://github.com/)
+
+Quinto passo:
+- Criar repositório no github (Público ou Privado)
+
+Sexto passo:
+- Clonar o projeto através do seguinte comando 
+
+git clone https://github.com/JonathanDSLima/Aulas-Web-SI.git
+
+Sétimo passo:
+- Adicionar alterações, arquivos, imagens, projetos e etc dentro do projeto clonado do github
+
+Passo opcional:
+- Rodar o comando "git status" para ver arquivos alterados
+
+Oitavo passo:
+- Através do comando "git add ." vamos adicionar todas as alterações
+
