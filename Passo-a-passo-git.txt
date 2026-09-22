@@ -38,3 +38,10 @@ git commit -m "Subindo pastas das aulas 1 a 6"
 Décimo primeiro passo:
 - Subir os commits feitos, através do comando "git push origin main" ou "git push origin master"
 ex: git push origin main
+
+Obs: Para o seguinte error (fatal: the remote end hung up unexpectedly) use o comando (git config --global http.postBuffer 524288000)
+
+Comandos mais importantes:
+git clone nomeprojeto
+git status
+git add .
