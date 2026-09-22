@@ -7,6 +7,10 @@ Segundo passo:
 Terceiro passo:
 - Rodar comando "git version" para validar de o git foi instalado corretamente
 
+Obs: configurar nome e email com os comandos
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulanodetal@exemplo.pt
+
 Quarto passo:
 - Criar uma conta no github (https://github.com/)
 
@@ -47,3 +51,10 @@ git status
 git add .
 git commit -m "Texto do commit"
 git push origin main (ou nome da branch que vc está)
+
+====================================================================================================================
+
+Passos de trabalho em equipe
+
+Primeiro passo:
+- Criar sua própria branch de trabalho, através do comando "git checkout -b login"
