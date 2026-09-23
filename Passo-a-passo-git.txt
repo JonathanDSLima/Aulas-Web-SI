@@ -64,3 +64,11 @@ Segundo passo:
 
 Terceiro passo:
 - Transitar entre as branchs com o comando "git checkout nomeBranchExistente"
+
+Quarto passo:
+- Comando para caso apareça algum warning durante os pulls
+
+git config pull.rebase false
+
+Quinto passo:
+- Repetir sempre os passos de git add, git commit, git push
